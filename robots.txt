@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://viziocomsetuphelp.github.io/sitemap.xml
